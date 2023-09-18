@@ -1,0 +1,15 @@
+/data/trash/Prog/Практика/Test.Core/bin/Debug/net7.0/Test.Core
+/data/trash/Prog/Практика/Test.Core/bin/Debug/net7.0/Test.Core.deps.json
+/data/trash/Prog/Практика/Test.Core/bin/Debug/net7.0/Test.Core.runtimeconfig.json
+/data/trash/Prog/Практика/Test.Core/bin/Debug/net7.0/Test.Core.dll
+/data/trash/Prog/Практика/Test.Core/bin/Debug/net7.0/Test.Core.pdb
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/Test.Core.csproj.AssemblyReference.cache
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/Test.Core.AssemblyInfoInputs.cache
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/Test.Core.AssemblyInfo.cs
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/Test.Core.csproj.CoreCompileInputs.cache
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/Test.Core.dll
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/refint/Test.Core.dll
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/Test.Core.pdb
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/Test.Core.genruntimeconfig.cache
+/data/trash/Prog/Практика/Test.Core/obj/Debug/net7.0/ref/Test.Core.dll
