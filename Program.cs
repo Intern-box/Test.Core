@@ -4,7 +4,7 @@
     {
         public static void Main()
         {
-            Console.WriteLine("Привет, Мир!");
+            Console.WriteLine("пробую работу с ветками...");
         }
     }
 }
