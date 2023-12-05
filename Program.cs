@@ -2,13 +2,16 @@
 {
     public class Program
     {
-        public string SayHi = "Привет!";
-
         public static void Main()
         {
-            Console.WriteLine("пробую создать объект с ссылкой на родителя:\n\n");
-
-            Test test = new Test(this);
+            if (DateTime.IsLeapYear(DateTime.Now.Year))
+            {
+                Console.WriteLine("високосный");
+            }
+            else
+            {
+                Console.WriteLine("НЕ високосный");
+            }
         }
     }
 }

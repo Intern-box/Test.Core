@@ -8,6 +8,6 @@ namespace Test
 
         public Test(Program program) => this.program = program;
 
-        void Load() => Console.WriteLine(program.SayHi);
+        //void Load() => Console.WriteLine(program.SayHi);
     }
 }
