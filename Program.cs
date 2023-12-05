@@ -4,13 +4,23 @@
     {
         public static void Main()
         {
-            if (DateTime.IsLeapYear(DateTime.Now.Year))
+            if (DateTime.Now.Month == 2)                            // Если февраль
             {
-                Console.WriteLine("високосный");
+                if (DateTime.IsLeapYear(DateTime.Now.Year))         // и год високосный
+                {
+                    Console.WriteLine("февраль - високосный");
+                }
+                else
+                {
+                    Console.WriteLine("февраль - НЕ високосный");
+                }
             }
-            else
+
+            switch (DateTime.Now.Day)
             {
-                Console.WriteLine("НЕ високосный");
+                case 30: Console.WriteLine("тридцатое"); break;
+                
+                case 31: Console.WriteLine("тридцатьпервое"); break;
             }
         }
     }
