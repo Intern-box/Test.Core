@@ -8,9 +8,13 @@ namespace Test.Core
 
         public static void Main()
         {
+            Console.Clear();
+
+            Console.WriteLine($"\nProgram: Запуск Базовой формы и ожидание запроса пользователя.\n");
+
             StageOne stageOne = new();
 
-            Console.WriteLine($"\n{str}\n");
+            Console.WriteLine($"Данные: {str}\n");
         }
     }
 }

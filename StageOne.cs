@@ -7,6 +7,10 @@ namespace StageOneSpace
     {
         public StageOne()
         {
+            Console.WriteLine($"StageOne: Презентёр инициирует запуск следующей формы\n");
+
+            Console.WriteLine($"и передаёт результат из неё в Базовую форму.\n");
+
             StageTwo stageTwo = new();
 
             Program.str = stageTwo.StringFromStageTwo;
